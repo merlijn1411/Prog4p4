@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\merli\\Documents\\Mediacollege\\schooljaar 1\\periode 4\\Progp4\\Code\\ConsoleMon\\ConsoleMon.csproj": {}
+    "C:\\Users\\merli\\Documents\\Mediacollege\\schooljaar 1\\periode 4\\Progp4\\Code\\ListOpdracht\\ListOpdracht.csproj": {}
   },
   "projects": {
-    "C:\\Users\\merli\\Documents\\Mediacollege\\schooljaar 1\\periode 4\\Progp4\\Code\\ConsoleMon\\ConsoleMon.csproj": {
+    "C:\\Users\\merli\\Documents\\Mediacollege\\schooljaar 1\\periode 4\\Progp4\\Code\\ListOpdracht\\ListOpdracht.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\merli\\Documents\\Mediacollege\\schooljaar 1\\periode 4\\Progp4\\Code\\ConsoleMon\\ConsoleMon.csproj",
-        "projectName": "ConsoleMon",
-        "projectPath": "C:\\Users\\merli\\Documents\\Mediacollege\\schooljaar 1\\periode 4\\Progp4\\Code\\ConsoleMon\\ConsoleMon.csproj",
+        "projectUniqueName": "C:\\Users\\merli\\Documents\\Mediacollege\\schooljaar 1\\periode 4\\Progp4\\Code\\ListOpdracht\\ListOpdracht.csproj",
+        "projectName": "ListOpdracht",
+        "projectPath": "C:\\Users\\merli\\Documents\\Mediacollege\\schooljaar 1\\periode 4\\Progp4\\Code\\ListOpdracht\\ListOpdracht.csproj",
         "packagesPath": "C:\\Users\\merli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\merli\\Documents\\Mediacollege\\schooljaar 1\\periode 4\\Progp4\\Code\\ConsoleMon\\obj\\",
+        "outputPath": "C:\\Users\\merli\\Documents\\Mediacollege\\schooljaar 1\\periode 4\\Progp4\\Code\\ListOpdracht\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\merli\\AppData\\Roaming\\NuGet\\NuGet.Config",

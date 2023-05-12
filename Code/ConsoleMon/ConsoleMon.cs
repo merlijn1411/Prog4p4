@@ -23,5 +23,6 @@ namespace ConsoleMon
             this.energy = energy - Energy;
         }
 
+
     }
 }

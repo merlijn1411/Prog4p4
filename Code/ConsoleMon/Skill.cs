@@ -10,14 +10,14 @@ namespace ConsoleMon
     internal class Skill
     {
         internal int damage;
-        internal int enegryCost;
+        internal int energyCost;
         internal string name;
 
 
         internal void UseOn(ConsoleMon target, ConsoleMon caster)
         {
-            caster.DepleteEnergy(caster);
-            target.TakeDamage(target);
+            caster.DepleteEnergy(energyCost);
+            target.TakeDamage(damage);
             
         }
     }
