@@ -1,0 +1,5 @@
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Classes\Skill\obj\Debug\net7.0\Skill.csproj.AssemblyReference.cache
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Classes\Skill\obj\Debug\net7.0\Skill.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Classes\Skill\obj\Debug\net7.0\Skill.AssemblyInfoInputs.cache
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Classes\Skill\obj\Debug\net7.0\Skill.AssemblyInfo.cs
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Classes\Skill\obj\Debug\net7.0\Skill.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\ProgP4\Classes\ConsoleMon\obj\Debug\net7.0\ConsoleMon.csproj.AssemblyReference.cache
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\ProgP4\Classes\ConsoleMon\obj\Debug\net7.0\ConsoleMon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\ProgP4\Classes\ConsoleMon\obj\Debug\net7.0\ConsoleMon.AssemblyInfoInputs.cache
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\ProgP4\Classes\ConsoleMon\obj\Debug\net7.0\ConsoleMon.AssemblyInfo.cs
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\ProgP4\Classes\ConsoleMon\obj\Debug\net7.0\ConsoleMon.csproj.CoreCompileInputs.cache
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\ProgP4\Classes\ConsoleMon\bin\Debug\net7.0\ConsoleMon.exe
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\ProgP4\Classes\ConsoleMon\bin\Debug\net7.0\ConsoleMon.deps.json
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\ProgP4\Classes\ConsoleMon\bin\Debug\net7.0\ConsoleMon.runtimeconfig.json
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\ProgP4\Classes\ConsoleMon\bin\Debug\net7.0\ConsoleMon.dll
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\ProgP4\Classes\ConsoleMon\bin\Debug\net7.0\ConsoleMon.pdb
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\ProgP4\Classes\ConsoleMon\obj\Debug\net7.0\ConsoleMon.dll
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\ProgP4\Classes\ConsoleMon\obj\Debug\net7.0\refint\ConsoleMon.dll
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\ProgP4\Classes\ConsoleMon\obj\Debug\net7.0\ConsoleMon.pdb
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\ProgP4\Classes\ConsoleMon\obj\Debug\net7.0\ConsoleMon.genruntimeconfig.cache
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\ProgP4\Classes\ConsoleMon\obj\Debug\net7.0\ref\ConsoleMon.dll
