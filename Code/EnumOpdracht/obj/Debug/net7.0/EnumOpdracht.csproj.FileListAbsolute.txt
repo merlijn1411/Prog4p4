@@ -3,3 +3,13 @@ C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\EnumOpd
 C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\EnumOpdracht\obj\Debug\net7.0\EnumOpdracht.AssemblyInfoInputs.cache
 C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\EnumOpdracht\obj\Debug\net7.0\EnumOpdracht.AssemblyInfo.cs
 C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\EnumOpdracht\obj\Debug\net7.0\EnumOpdracht.csproj.CoreCompileInputs.cache
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\EnumOpdracht\bin\Debug\net7.0\EnumOpdracht.exe
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\EnumOpdracht\bin\Debug\net7.0\EnumOpdracht.deps.json
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\EnumOpdracht\bin\Debug\net7.0\EnumOpdracht.runtimeconfig.json
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\EnumOpdracht\bin\Debug\net7.0\EnumOpdracht.dll
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\EnumOpdracht\bin\Debug\net7.0\EnumOpdracht.pdb
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\EnumOpdracht\obj\Debug\net7.0\EnumOpdracht.dll
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\EnumOpdracht\obj\Debug\net7.0\refint\EnumOpdracht.dll
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\EnumOpdracht\obj\Debug\net7.0\EnumOpdracht.pdb
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\EnumOpdracht\obj\Debug\net7.0\EnumOpdracht.genruntimeconfig.cache
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\EnumOpdracht\obj\Debug\net7.0\ref\EnumOpdracht.dll

@@ -10,13 +10,7 @@ namespace ConsoleMon
         static void Main(string[] args)
         {
             TestSkillFunctions();
-            Colors myMainThemeColor = Colors.green;
-            Console.WriteLine("Hello, World!");
-
-            if (myMainThemeColor == Colors.green)
-            {
-                Console.WriteLine("dat is mijn kleur!");
-            }
+            
         }
         static void TestSkillFunctions()
         {

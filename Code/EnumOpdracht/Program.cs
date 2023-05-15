@@ -2,11 +2,15 @@
 {
     internal class Program
     {
-        static void Main(Colors myMainThemeColors)
+        static void Main(string[] args)
         {
-             
             
-            
+            Colors myMainThemeColor = Colors.green;
+
+            if (myMainThemeColor == Colors.green)
+            {
+                Console.WriteLine("dat is mijn kleur!");
+            }
         }
     }
 }

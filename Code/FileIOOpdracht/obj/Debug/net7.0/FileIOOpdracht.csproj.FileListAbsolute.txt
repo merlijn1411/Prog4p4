@@ -1,0 +1,16 @@
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\FileIOOpdracht\bin\Debug\net7.0\leesdezefile.txt
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\FileIOOpdracht\bin\Debug\net7.0\FileIOOpdracht.exe
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\FileIOOpdracht\bin\Debug\net7.0\FileIOOpdracht.deps.json
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\FileIOOpdracht\bin\Debug\net7.0\FileIOOpdracht.runtimeconfig.json
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\FileIOOpdracht\bin\Debug\net7.0\FileIOOpdracht.dll
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\FileIOOpdracht\bin\Debug\net7.0\FileIOOpdracht.pdb
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\FileIOOpdracht\obj\Debug\net7.0\FileIOOpdracht.csproj.AssemblyReference.cache
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\FileIOOpdracht\obj\Debug\net7.0\FileIOOpdracht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\FileIOOpdracht\obj\Debug\net7.0\FileIOOpdracht.AssemblyInfoInputs.cache
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\FileIOOpdracht\obj\Debug\net7.0\FileIOOpdracht.AssemblyInfo.cs
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\FileIOOpdracht\obj\Debug\net7.0\FileIOOpdracht.csproj.CoreCompileInputs.cache
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\FileIOOpdracht\obj\Debug\net7.0\FileIOOpdracht.dll
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\FileIOOpdracht\obj\Debug\net7.0\refint\FileIOOpdracht.dll
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\FileIOOpdracht\obj\Debug\net7.0\FileIOOpdracht.pdb
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\FileIOOpdracht\obj\Debug\net7.0\FileIOOpdracht.genruntimeconfig.cache
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\FileIOOpdracht\obj\Debug\net7.0\ref\FileIOOpdracht.dll

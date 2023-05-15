@@ -1,0 +1,15 @@
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\FileDirOpdracht\bin\Debug\net7.0\FileDirOpdracht.exe
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\FileDirOpdracht\bin\Debug\net7.0\FileDirOpdracht.deps.json
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\FileDirOpdracht\bin\Debug\net7.0\FileDirOpdracht.runtimeconfig.json
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\FileDirOpdracht\bin\Debug\net7.0\FileDirOpdracht.dll
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\FileDirOpdracht\bin\Debug\net7.0\FileDirOpdracht.pdb
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\FileDirOpdracht\obj\Debug\net7.0\FileDirOpdracht.csproj.AssemblyReference.cache
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\FileDirOpdracht\obj\Debug\net7.0\FileDirOpdracht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\FileDirOpdracht\obj\Debug\net7.0\FileDirOpdracht.AssemblyInfoInputs.cache
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\FileDirOpdracht\obj\Debug\net7.0\FileDirOpdracht.AssemblyInfo.cs
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\FileDirOpdracht\obj\Debug\net7.0\FileDirOpdracht.csproj.CoreCompileInputs.cache
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\FileDirOpdracht\obj\Debug\net7.0\FileDirOpdracht.dll
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\FileDirOpdracht\obj\Debug\net7.0\refint\FileDirOpdracht.dll
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\FileDirOpdracht\obj\Debug\net7.0\FileDirOpdracht.pdb
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\FileDirOpdracht\obj\Debug\net7.0\FileDirOpdracht.genruntimeconfig.cache
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\FileDirOpdracht\obj\Debug\net7.0\ref\FileDirOpdracht.dll
