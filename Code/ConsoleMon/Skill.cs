@@ -4,6 +4,7 @@ using System.Linq;
 using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Linq;
 
 namespace ConsoleMon
 {
@@ -13,12 +14,18 @@ namespace ConsoleMon
         internal int energyCost;
         internal string name;
 
+        internal Element element;
+
 
         internal void UseOn(ConsoleMon target, ConsoleMon caster)
         {
             caster.DepleteEnergy(energyCost);
             target.TakeDamage(damage);
-            
+            if (target.weakness == element)
+            {
+                target.TakeDamage(damage / 2);
+            }
         }
+        
     }
 }

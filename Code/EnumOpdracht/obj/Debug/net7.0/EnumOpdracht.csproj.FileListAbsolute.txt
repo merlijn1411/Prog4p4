@@ -1,0 +1,5 @@
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\EnumOpdracht\obj\Debug\net7.0\EnumOpdracht.csproj.AssemblyReference.cache
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\EnumOpdracht\obj\Debug\net7.0\EnumOpdracht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\EnumOpdracht\obj\Debug\net7.0\EnumOpdracht.AssemblyInfoInputs.cache
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\EnumOpdracht\obj\Debug\net7.0\EnumOpdracht.AssemblyInfo.cs
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\EnumOpdracht\obj\Debug\net7.0\EnumOpdracht.csproj.CoreCompileInputs.cache

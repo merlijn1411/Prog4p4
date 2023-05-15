@@ -13,11 +13,13 @@ namespace ConsoleMon
         internal int energy;
         internal string name;
 
+        internal Element weakness;
+
         internal void  TakeDamage(int Damage)
         {
             this.health = health - Damage;
         }
-
+        
         internal void DepleteEnergy(int Energy)
         {
             this.energy = energy - Energy;
