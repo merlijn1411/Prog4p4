@@ -1,5 +1,4 @@
-﻿using EnumOpdracht;
-using System.Reflection.PortableExecutable;
+﻿using System.Reflection.PortableExecutable;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace ConsoleMon
@@ -10,7 +9,9 @@ namespace ConsoleMon
         static void Main(string[] args)
         {
             TestSkillFunctions();
-            
+            TestFactoryFunctions();
+
+
         }
         static void TestSkillFunctions()
         {
@@ -27,6 +28,12 @@ namespace ConsoleMon
             Console.WriteLine(targetMon.health == -150);
 
             Console.WriteLine(casterMon.energy == -20);
+        }
+        static void TestFactoryFunctions()
+        {
+            Console.WriteLine("TestFactoryFunctions");
+            ConsoleMonFactory factory = new ConsoleMonFactory();
+            factory.Load("monsterdata.txt");
         }
     }
 }

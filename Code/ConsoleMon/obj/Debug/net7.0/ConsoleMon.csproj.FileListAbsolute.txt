@@ -28,3 +28,4 @@ C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\Console
 C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\ConsoleMon\bin\Debug\net7.0\ConsoleMon.pdb
 C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\ConsoleMon\obj\Debug\net7.0\ConsoleMon.genruntimeconfig.cache
 C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\ConsoleMon\obj\Debug\net7.0\ref\ConsoleMon.dll
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\ConsoleMon\bin\Debug\net7.0\monsterdata.txt

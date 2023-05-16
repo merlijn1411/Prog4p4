@@ -1,0 +1,16 @@
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\SplitOpdracht\bin\Debug\net7.0\stringsplit.txt
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\SplitOpdracht\bin\Debug\net7.0\SplitOpdracht.exe
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\SplitOpdracht\bin\Debug\net7.0\SplitOpdracht.deps.json
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\SplitOpdracht\bin\Debug\net7.0\SplitOpdracht.runtimeconfig.json
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\SplitOpdracht\bin\Debug\net7.0\SplitOpdracht.dll
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\SplitOpdracht\bin\Debug\net7.0\SplitOpdracht.pdb
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\SplitOpdracht\obj\Debug\net7.0\SplitOpdracht.csproj.AssemblyReference.cache
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\SplitOpdracht\obj\Debug\net7.0\SplitOpdracht.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\SplitOpdracht\obj\Debug\net7.0\SplitOpdracht.AssemblyInfoInputs.cache
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\SplitOpdracht\obj\Debug\net7.0\SplitOpdracht.AssemblyInfo.cs
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\SplitOpdracht\obj\Debug\net7.0\SplitOpdracht.csproj.CoreCompileInputs.cache
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\SplitOpdracht\obj\Debug\net7.0\SplitOpdracht.dll
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\SplitOpdracht\obj\Debug\net7.0\refint\SplitOpdracht.dll
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\SplitOpdracht\obj\Debug\net7.0\SplitOpdracht.pdb
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\SplitOpdracht\obj\Debug\net7.0\SplitOpdracht.genruntimeconfig.cache
+C:\Users\merli\Documents\Mediacollege\schooljaar 1\periode 4\Progp4\Code\SplitOpdracht\obj\Debug\net7.0\ref\SplitOpdracht.dll
