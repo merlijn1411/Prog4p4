@@ -9,9 +9,9 @@ namespace ConsoleMon
 {
     internal class ConsoleMon
     {
-        internal int health;
-        internal int energy;
-        internal string name;
+        internal int health { get; set; }
+        internal int energy { get; set; }
+        internal string name { get; set; }
 
         internal Element weakness;
 
@@ -23,6 +23,19 @@ namespace ConsoleMon
         internal void DepleteEnergy(int Energy)
         {
             this.energy = energy - Energy;
+        }
+        public ConsoleMon()
+        {
+
+        }
+        internal ConsoleMon(int health, int energy, string name, Element weakness)
+        {
+           
+            this.energy = energy;
+            this.name = name;
+            this.weakness = weakness;
+            this.health = health;
+
         }
 
 

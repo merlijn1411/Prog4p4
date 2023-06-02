@@ -10,7 +10,7 @@ namespace ConsoleMon
         {
             TestSkillFunctions();
             TestFactoryFunctions();
-
+            TestConstructors();
 
         }
         static void TestSkillFunctions()
@@ -34,6 +34,18 @@ namespace ConsoleMon
             Console.WriteLine("TestFactoryFunctions");
             ConsoleMonFactory factory = new ConsoleMonFactory();
             factory.Load("monsterdata.txt");
+            factory.LoadJson("monsterdata.json");
+        }
+        static void TestConstructors()
+        {
+            Console.WriteLine("TestConstructors");
+            ConsoleMon mon = new ConsoleMon(200, 200, "ConsoleColorMon", Element.Earth);
+
+            Console.WriteLine(mon.energy == 200);
+            Console.WriteLine(mon.name == "ConsoleColorMon");
+            Console.WriteLine(mon.health == 200);
+            Console.WriteLine(mon.weakness == Element.Earth);
+
         }
     }
 }
