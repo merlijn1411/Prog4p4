@@ -55,13 +55,14 @@ namespace oefeningStreamingStudentenVersieExtra
 
             using (StreamReader streamReader = new StreamReader(file))
             {
-                string line;
+                string line = "";
                 while ((line = streamReader.ReadLine()) != null)
                 {
-                    ...
+                   
                     //blader tot je bij het level komt
                     //dan laat je het zien
                 }
+
             }
 
         }

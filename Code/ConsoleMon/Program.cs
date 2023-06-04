@@ -8,9 +8,10 @@ namespace ConsoleMon
 
         static void Main(string[] args)
         {
-            TestSkillFunctions();
+           TestSkillFunctions();
             TestFactoryFunctions();
             TestConstructors();
+            TestCopySkill();
 
         }
         static void TestSkillFunctions()
@@ -36,6 +37,7 @@ namespace ConsoleMon
             factory.Load("monsterdata.txt");
             factory.LoadJson("monsterdata.json");
         }
+        
         static void TestConstructors()
         {
             Console.WriteLine("TestConstructors");
@@ -46,6 +48,29 @@ namespace ConsoleMon
             Console.WriteLine(mon.health == 200);
             Console.WriteLine(mon.weakness == Element.Earth);
 
+
+            Skill skill = new Skill(90, 80, "FireBlade", Element.Fire);
+            Console.WriteLine(skill.energyCost == 80);
+            Console.WriteLine(skill.name == "FireBlade");
+            Console.WriteLine(skill.damage == 90);
+            Console.WriteLine(skill.element == Element.Fire);
+
         }
+        static void TestCopySkill()
+        {
+            Console.WriteLine("TestCopySkill");
+            ConsoleMonFactory factory = new ConsoleMonFactory();
+            List<ConsoleMon> templates = factory.LoadJson("monsterdata.json");
+            Skill copyFrom = templates[0].skills[0];
+
+            Skill copy = factory.CopySkill(copyFrom);
+            Console.WriteLine(copy.name == copyFrom.name);
+            Console.WriteLine(copy.damage == copyFrom.damage);
+            Console.WriteLine(copy.element == copyFrom.element);
+            copy.name = "anders";
+            Console.WriteLine(copy.name != copyFrom.name);
+        }
+
+
     }
 }

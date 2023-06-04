@@ -15,6 +15,8 @@ namespace ConsoleMon
 
         internal Element weakness;
 
+        public List<Skill> skills { get; set; }
+
         internal void  TakeDamage(int Damage)
         {
             this.health = health - Damage;

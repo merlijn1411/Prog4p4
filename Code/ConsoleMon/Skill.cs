@@ -26,6 +26,20 @@ namespace ConsoleMon
                 target.TakeDamage(damage / 2);
             }
         }
+        public Skill() 
+        {
+            
+        }
+
+        internal Skill(int damage, int energyCost, string name, Element element) 
+        {
+            this.damage = damage;
+            this.energyCost = energyCost;
+            this.name = name;
+            this.element = element;
+
+        }
+
         
     }
 }
