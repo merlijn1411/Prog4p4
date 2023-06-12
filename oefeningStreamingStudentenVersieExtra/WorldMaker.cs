@@ -17,7 +17,7 @@
 
             using (FileStream f = File.Open(file, FileMode.Create, FileAccess.ReadWrite))
             {
-                while (chunks < 3)
+                while (chunks < 30000)
                 {
 
                     MakeHorizontalWall(f);

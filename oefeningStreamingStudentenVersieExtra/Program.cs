@@ -1,5 +1,8 @@
 ﻿using System.ComponentModel.Design.Serialization;
 using System.Diagnostics;
+using System.Linq;
+using System.Linq.Expressions;
+using System.Runtime.CompilerServices;
 
 namespace oefeningStreamingStudentenVersieExtra
 {
@@ -40,7 +43,7 @@ namespace oefeningStreamingStudentenVersieExtra
             using (FileStream fs = new FileStream(file, FileMode.Open, FileAccess.Read))
             using (StreamReader streamReader = new StreamReader(fs))
             {
-                fs.Position = 1;//??verander dit
+                fs.Position = 120 * levelIndex;//??verander dit
                 for (int i = 0; i < levelSize; i++)
                 {
                     string horizontaleRegel = streamReader.ReadLine();
@@ -51,19 +54,26 @@ namespace oefeningStreamingStudentenVersieExtra
         }
         private void ReadLevelBlader(int levelIndex)
         {
+            
             //gebruik een StreamReader en laat alleen het level zien dat je moet tonen (het derde level!)
-
             using (StreamReader streamReader = new StreamReader(file))
             {
-                string line = "";
-                while ((line = streamReader.ReadLine()) != null)
+                string line;
+                int teller = 0;
+                int start=levelIndex*levelSize;
+                int end = (levelIndex + 1)* levelSize;
+                while ((line = streamReader.ReadLine())!= null)
                 {
-                   
-                    //blader tot je bij het level komt
-                    //dan laat je het zien
+                    teller++;
+                    if( teller >= start && teller < end)
+                    {
+                        Console.WriteLine(line);
+                    }
+                    
                 }
-
+                
             }
+            
 
         }
         private Program()

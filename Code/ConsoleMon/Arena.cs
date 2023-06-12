@@ -12,16 +12,16 @@ namespace ConsoleMon
         {
             fighterA.skills[0].UseOn(fighterB, fighterA);
             Thread.Sleep(1000);
-            Console.WriteLine($"{fighterA.name} attacked {fighterB.name}  ");
+            Console.WriteLine($"{fighterA.name} A attacked B {fighterB.name}  ");
             Thread.Sleep(1000);
             // Vechter 2 valt vechter 1 aan
             fighterB.skills[0].UseOn(fighterA, fighterA);
-            Console.WriteLine($"{fighterB.name} attacked {fighterA.name} ");
+            Console.WriteLine($"{fighterB.name} B attacked A {fighterA.name} ");
             Thread.Sleep(1000);
             // Console-uitvoer van het resultaat van de aanvallen
-            Console.WriteLine($"{fighterA.name} has now {fighterA.health} HP.");
+            Console.WriteLine($"{fighterA.name} A has now {fighterA.health} HP.");
             Thread.Sleep(1000);
-            Console.WriteLine($"{fighterB.name} has now {fighterB.health} HP.");
+            Console.WriteLine($"{fighterB.name} B has now {fighterB.health} HP.");
         }
     }
 }
