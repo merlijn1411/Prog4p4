@@ -73,7 +73,7 @@ namespace ConsoleMon
                 nskill.name = skill.name;
                 nskill.energyCost = skill.energyCost;
                 copyResult.skills.Add(nskill);
-
+                
             }
             return copyResult;
         }

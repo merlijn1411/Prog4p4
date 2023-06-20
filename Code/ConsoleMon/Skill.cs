@@ -37,7 +37,7 @@ namespace ConsoleMon
             this.energyCost = energyCost;
             this.name = name;
             this.element = element;
-
+            
         }
 
         
